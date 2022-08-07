@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">⚡ Currently working as a Machine Learning Engineer ⚡</h1>
+
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=rafaelgildin&show_icons=true&theme=tokyonight" alt="GitHub stats">
+</p>
+<p align="center">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgildin&layout=compact" alt="Top languages">
+</p>
+
 
 <!--
 **rafaelgildin/rafaelgildin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
