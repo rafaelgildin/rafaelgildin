@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rafael Gildin - Data Scientist & Machine Learning Engineer 🚀</h1>
+<h1 align="center">🚀 Rafael Gildin - Data Scientist 🚀</h1>
 
 <p align="center">
   <i>Passionate about advancing Computer Vision, Machine Learning, Deep Learning and Cloud Computing.</i>
@@ -19,6 +19,7 @@
 
 ## 🌱 What I'm Learning Now
 - Advanced topics in AI and ML.
+- Training and applying LLMs into business use cases.
 - Improving skills in scalable machine learning on cloud platforms.
 - Staying updated with the latest trends and technologies in AI.
 
