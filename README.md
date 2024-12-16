@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Rafael Gildin - Data Scientist 🚀</h1>
+<h1 align="center">🚀 Lead Data Scientist 🚀</h1>
 
 <p align="center">
   <i>Passionate about advancing Generative AI, Computer Vision, Machine Learning, Deep Learning and Cloud Computing.</i>
