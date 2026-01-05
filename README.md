@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelgildin&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgildin&layout=compact" alt="Rafael's Top Languages" width="305"/>
+  <img src="https://github-readme-stats-two-lemon-31.vercel.app/api?username=rafaelgildin&show_icons=true&theme=tokyonight" alt="Rafael's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats-two-lemon-31.vercel.app/api/top-langs/?username=rafaelgildin&layout=compact" alt="Rafael's Top Languages" width="305"/>
 </p>
 
 ---
